@@ -1,0 +1,48 @@
+/* *{
+    font-family: 'Akronim', cursive;
+} 
+.first {
+    color: red;
+    background-color: yellow;
+    border: 1px solid red;
+    box-shadow: 3px 3px 3px grey;
+    height: 60px;
+    width: 500px;
+    font-size: 1.5em;
+    box-sizing: border-box;
+}
+div p{
+    margin: 10px 50px 10px;
+}
+
+.second {
+    color: white;
+    height: 300px;
+
+    background-image: url(https://source.unsplash.com/800x300/?garden);
+    background-repeat: no-repeat;
+}
+
+span {
+    background-color: yellowgreen;
+ 
+} */
+
+.one{
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px black;
+    margin-right: 20px;
+}
+.one:hover{
+    background-color: rgb(209, 209, 209);
+}
+div span{
+    display: block;
+}
+div img{
+    width: 80px;
+}

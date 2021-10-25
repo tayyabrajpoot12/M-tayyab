@@ -1,0 +1,49 @@
+/* div{
+    margin: 5px;
+}
+#orange{
+    background-color: orange;
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+
+#yellow{
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    float: left;
+
+}
+
+#purple{
+    background-color: purple;
+    width: 150px;
+    height: 150px;
+    float: left;
+
+}
+
+#blue{
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    float: left;
+
+} */
+.main{
+    margin: auto;
+    position: relative;
+    width: fit-content;
+    /* display: table; */
+}
+.new{
+    background-color: aquamarine;
+    /* align-items: center; */
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    /* display: table-cell; */
+    /* vertical-align: middle; */
+    text-align: center;
+}

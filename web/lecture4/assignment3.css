@@ -1,0 +1,81 @@
+.main{
+    background-image: linear-gradient(to right, red , yellow);
+    color: white;
+    display: inline-flex;
+    flex-direction: row;
+    width: 100%;
+    height: 50px;
+}
+.first{
+    margin-top: 15px;
+}
+.second{
+    margin-top: 15px;
+    padding-left: 10px;
+}
+.button{
+    margin-left: 50px;    
+    background-color: rgb(34, 189, 34);
+    border-radius: 10px;
+    height: 25px;
+    color: white;
+    box-shadow: 2px 2px 2px grey;
+    
+}
+.main2{
+    width: 100%;
+    display: inline-block;
+}
+.imglogo{
+    margin-left: 200px;
+    width: 250px;
+}
+.number{
+    display: inline-block;
+}
+.text1{
+    padding-left: 567px;
+    font-size: 20px;
+}
+.text2{
+    padding-left: 328px;
+}
+.nav{
+    width: 100%;
+    background-color: grey;
+    height: 40px;
+}
+.navSpan1{
+    color: white;
+    font-size: 20px;
+    padding-left: 227px;
+}
+.navSpan{
+    color: white;
+    font-size: 20px;
+    padding-left: 10px;
+}
+.img img{
+    margin: 10px 300px 10px;
+    width: 800px;
+    height: 400px;
+}
+div.last1{
+    background-color: cornflowerblue;
+    color: white;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin-left: 290px;
+}
+div.last{
+    background-color: cornflowerblue;
+    color: white;
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+    height: 200px;
+}
+.nav2{
+    padding-top: 10px;
+}
